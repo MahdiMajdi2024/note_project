@@ -2,6 +2,8 @@
 
 A new Flutter project.
 
+![App Screenshot](<img width="492" height="1000" alt="Screenshot 2025-12-05 at 23 42 14" src="https://github.com/user-attachments/assets/79887b50-2d2c-432f-af65-efc5fdfbab63" />)
+
 ## Getting Started
 
 This project is a starting point for a Flutter application.
